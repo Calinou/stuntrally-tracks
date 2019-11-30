@@ -1,7 +1,7 @@
 # Stunt Rally Tracks
 
 This repository contains various tracks I made for
-[Stunt Rally](http://stuntrally.tuxfamily.org/) over the years.
+[Stunt Rally](https://stuntrally.tuxfamily.org/) over the years.
 
 *Mud4-Taiga* and *Des18-Shuttle* aren't included in this repository since
 they're both part of the latest official Stunt Rally release (2.5).

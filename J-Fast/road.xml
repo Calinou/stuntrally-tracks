@@ -1,0 +1,49 @@
+<SplineRoad>
+	<mtr road="roadJungle" pipe="pipeGlassYellow" road2="roadSand" pipe2="pipeGlass" wall="road_wall_Jungle" pipeW="pipe_wall_Jungle" />
+	<dim tcMul="0.1" tcW="0.2" tcP="0.1" tcPW="0.3" tcC="0.2" lenDim="2" widthSteps="6" heightOfs="0.06" />
+	<mrg skirtLen="1" skirtH="0.12" merge="1" mergeLen="800" lodPntLen="120" />
+	<geom colN="4" colR="2" wsPm="4" lsPm="1" stBox="1 5 21.8241" iDir="-1" iChk1="38" />
+	<stats length="3730.01" width="7" height="53.6014" onTer="55.3402" pipes="33.6579" bnkAvg="2.69525" bnkMax="13.68" />
+	<txt desc="Curly track with pipes in water." />
+	<P pos="-348.158 0 224.415" w="7" aT="2" chkR="1.548" />
+	<P pos="-354.93 0 243.73" w="7" aT="2" chkR="1.496" />
+	<P pos="-318.58 0 274.762" w="7" aT="2" chkR="1.648" />
+	<P pos="-283.13 0 303.301" w="7" aT="2" chkR="1.612" />
+	<P pos="-232.452 0 314.423" w="7" a="0" ar="0" aT="2" chkR="1.516" />
+	<P pos="-159.752 0.222504 268.38" w="7" onTer="0" a="0" ar="0" aT="2" chkR="1.456" />
+	<P pos="-54.5822 0 208.008" w="7" a="0" ar="0" aT="2" chkR="1.328" />
+	<P pos="14.2229 0 224.148" w="7" aT="2" chkR="1.676" />
+	<P pos="-13.1798 0 319.652" w="7" aT="2" chkR="1.376" />
+	<P pos="-88.0766 0 324.48" w="7" aT="2" chkR="1.356" />
+	<P pos="-94.9116 0 240.525" w="7" aT="2" chkR="1.536" />
+	<P pos="-33.8871 0 142.258" w="7" aT="2" />
+	<P pos="35.8661 0 82.8323" w="7" aT="2" chkR="1.672" />
+	<P pos="156.885 0 16.4219" w="7" aT="2" chkR="1.472" />
+	<P pos="210.988 0 8.33966" w="7" a="0" ar="0" aT="2" chkR="1.8" />
+	<P pos="278.151 -18.1618 52.9686" w="7" onTer="0" a="0" ar="0" aT="2" pipe="1" chkR="1.888" />
+	<P pos="142.938 -3.69674 149.953" w="7" onTer="0" a="0" ar="0" aT="2" chkR="1.688" />
+	<P pos="41.4142 0.523533 132.542" w="7" onTer="0" a="0" ar="0" aT="2" chkR="1.528" />
+	<P pos="-87.2577 18.3379 155.912" w="7" onTer="0" a="0" ar="0" aT="2" chkR="1.328" />
+	<P pos="-181.404 18.8798 115.796" w="7" onTer="0" a="0" ar="0" aT="2" chkR="1.264" />
+	<P pos="-214.997 30.2593 58.5905" w="7" onTer="0" a="0" ar="13.68" aT="2" chkR="1.456" />
+	<P pos="-237.02 29.8252 -61.5004" w="7" onTer="0" a="0" ar="0" aT="2" chkR="1.416" />
+	<P pos="-203.782 0 -118.092" w="7" a="0" ar="0" aT="2" chkR="1.468" />
+	<P pos="-118.649 0 -166.244" w="7" a="0" ar="0" aT="2" chkR="1.668" />
+	<P pos="-17.11 5.72364 -163.621" w="7" onTer="0" a="0" ar="0" aT="2" pipe="1" chkR="1.868" />
+	<P pos="-6.97665 28.0311 -40.4083" w="7" onTer="0" a="0" ar="0" aT="2" pipe="1" chkR="1.896" />
+	<P pos="87.5547 -12.5472 -37.2368" w="7" onTer="0" a="0" ar="0" aT="2" pipe="1" chkR="1.848" />
+	<P pos="129.459 6.98655 2.19633" w="7" onTer="0" a="0" ar="0" aT="2" pipe="1" chkR="1.8014" />
+	<P pos="161.59 18.37 -23.1878" w="7" onTer="0" a="0" ar="0" aT="2" pipe="1" chkR="1.868" />
+	<P pos="207.129 11.5607 -158.686" w="7" onTer="0" a="0" ar="0" aT="2" pipe="1" chkR="1.928" />
+	<P pos="153.548 26.1611 -231.63" w="7" onTer="0" a="0" ar="0" aT="2" pipe="1" chkR="1.872" />
+	<P pos="96.2277 14.394 -271.849" w="7" onTer="0" a="0" ar="0" aT="2" pipe="1" chkR="1.856" />
+	<P pos="53.6 -10.1578 -298.438" w="7" onTer="0" a="0" ar="0" aT="2" pipe="1" chkR="1.82" />
+	<P pos="-43.5484 0 -155.296" w="7" a="0" ar="0" aT="2" chkR="1.74" />
+	<P pos="-58.0253 0 -38.0196" w="7" aT="2" chkR="1.54" />
+	<P pos="-46.3945 0 37.2595" w="7" aT="2" chkR="1.356" />
+	<P pos="-93.2593 0 119.74" w="7" aT="2" chkR="1.536" />
+	<P pos="-147.001 0 184.43" w="7" aT="2" chkR="1.4" />
+	<P pos="-178.711 0 221.365" w="7" aT="2" chkR="1.688" />
+	<P pos="-255.118 0 269.275" w="7" aT="2" chkR="1.724" />
+	<P pos="-323.19 0 233.006" w="7" aT="2" chkR="1.548" />
+</SplineRoad>
